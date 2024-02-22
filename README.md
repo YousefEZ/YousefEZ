@@ -1,9 +1,3 @@
-
-![2560pxBismillah](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bismillah_Calligraphy19.svg/2560px-Bismillah_Calligraphy19.svg.png)
-
-
----------
-
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=YousefEZ&theme=onedark&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
